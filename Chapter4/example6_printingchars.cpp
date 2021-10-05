@@ -11,7 +11,7 @@ int main()
 
     std::cout << std::endl;
 
-    for (int i=0; char('a'+i) != char('z'+1); i++){
-        std::cout << char('a' + i) << "\t" << int('a' + i) << "\n";
+    for (int i=0; char('0' + i) != char('z'+1); i++){
+        std::cout << char('0' + i) << "\t" << int('0' + i) << "\n";
     }
 }
