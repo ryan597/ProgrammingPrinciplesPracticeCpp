@@ -4,22 +4,23 @@
 
 int main()
 {
-    double a;
-    double b;
+    double temp{};
+    double smallest{10000000000};
+    double largest{-10000000000};
+
     bool cond {false};
 
     std::setprecision(51);
     while(!cond){
-        if (std::cin >> a >> b){
-            if (a == b)
-                std::cout << "The numbers are equal\n";
-            else{
-                std::cout << "The smaller value is: " << ((a < b )? a : b);
-                std::cout << "\nThe larger value is: " << ((a > b)? a : b);
-                std::cout << '\n';
-                if ( abs(a - b) < 0.01){
-                    std::cout << "The numbers are almost equal\n";
-                }
+        if (std::cin >> temp){
+            std::cout << "\nValue entered: " << temp << "\n";
+            if (temp > largest){
+                largest = temp;
+                std::cout << "The largest value so far is: " << largest << "\n";
+            }
+            else if (temp < smallest){
+                smallest = temp;
+                std::cout << "The smallest value so far is: " << smallest << "\n";
             }
         }
         else {
