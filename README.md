@@ -16,13 +16,13 @@ I give no warrenty with the code in this repository, that it works or is free fr
 2. [Folder Structure](#2-folder-structure)
 3. [Programs](#3-programs)
 
-    3.1. [Chapter 2: Hello World](Chapter2/)
+    [Chapter 2: Hello World](Chapter2/)
 
-    3.2. [Chapter 3: Objects, Types and Values](Chapter3/)
+    [Chapter 3: Objects, Types and Values](Chapter3/)
 
-    3.3. [Chapter 4: Computation](Chapter4/)
+    [Chapter 4: Computation](Chapter4/)
 
-    3.4. [Chapter 5: Errors](Chapter5/)
+    [Chapter 5: Errors](Chapter5/)
 
 ---
 
@@ -46,24 +46,24 @@ Each file is also numbered successively restarting at 1 with each chapter, and g
 
 Here I will detail the exercises I completed from the different chapters of the book and what they teach. Each program should be easy to understand from its source code with the comments I have included, but I have decided this will give an easy overview without opening each individual file. As I work through the book, I may decide to include additional markdown files within the respective chapers for notes on more advanced concepts.
 
-### 3.1. Chapter 2: Hello World
+### Chapter 2: Hello World
 
 - [Example 1](Chapter2/example1_helloworld.cpp): Hello World
 - [Drill 1](Chapter2/drill1_keepopen.cpp): Keep Window Open
 - [Exercise 1](Chapter2/exercise1_helloworld.cpp): Hello World
 
-### 3.2 Chapter 3: Objects, Types and Values
+### Chapter 3: Objects, Types and Values
 
-- [Example 1](Chapter3/example_nameage.cpp): Name and Age
-- [Example 2](Chapter3/example_operators.cpp): Operators
-- [Example 3](Chapter3/example_stringoperations.cpp): String Operations
-- [Example 4](Chapter3/example_repeatedwords.cpp): Repeated Words
-- [Example 5](Chapter3/example_unsafeconventions.cpp): Unsafe Conventions
+- [Example 1](Chapter3/example1_nameage.cpp): Name and Age
+- [Example 2](Chapter3/example2_operators.cpp): Operators
+- [Example 3](Chapter3/example3_stringoperations.cpp): String Operations
+- [Example 4](Chapter3/example4_repeatedwords.cpp): Repeated Words
+- [Example 5](Chapter3/example5_unsafeconventions.cpp): Unsafe Conventions
 - [Drill 1](Chapter3/drill1_letter.cpp): Letter
 - [Exercise 1](Chapter3/exercise1_milestokms.cpp): Convert Miles to Kilometers
 - [Exercise 2](Chapter3/exercise2_dollerscents.cpp): Calculate Value of Coins in Dollers
 
-### 3.3 Chapter 4: Computation
+### Chapter 4: Computation
 
 - [Example 1](Chapter4/example1_ifconditions.cpp): If Conditions
 - [Example 2](Chapter4/example2_cmtoinch.cpp): Convert cm to inches
@@ -78,7 +78,7 @@ Here I will detail the exercises I completed from the different chapters of the 
 - [Drill 1](Chapter4/drill1_whileloop.cpp): Comparing While
 - [Exercise 1](Chapter4/exercise1_currencyconvertorswitch.cpp): Converting Currencies
 
-### 3.4 Chapter 5: Errors
+### Chapter 5: Errors
 
 - Example 1:
 - Example 2:
