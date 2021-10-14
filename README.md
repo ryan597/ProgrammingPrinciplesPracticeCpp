@@ -54,11 +54,11 @@ Here I will detail the exercises I completed from the different chapters of the 
 
 ### Chapter 3: Objects, Types and Values
 
-- [Example 1](Chapter3/example_nameage.cpp): Name and Age
-- [Example 2](Chapter3/example_operators.cpp): Operators
-- [Example 3](Chapter3/example_stringoperations.cpp): String Operations
-- [Example 4](Chapter3/example_repeatedwords.cpp): Repeated Words
-- [Example 5](Chapter3/example_unsafeconventions.cpp): Unsafe Conventions
+- [Example 1](Chapter3/example1_nameage.cpp): Name and Age
+- [Example 2](Chapter3/example2_operators.cpp): Operators
+- [Example 3](Chapter3/example3_stringoperations.cpp): String Operations
+- [Example 4](Chapter3/example4_repeatedwords.cpp): Repeated Words
+- [Example 5](Chapter3/example5_unsafeconventions.cpp): Unsafe Conventions
 - [Drill 1](Chapter3/drill1_letter.cpp): Letter
 - [Exercise 1](Chapter3/exercise1_milestokms.cpp): Convert Miles to Kilometers
 - [Exercise 2](Chapter3/exercise2_dollerscents.cpp): Calculate Value of Coins in Dollers
