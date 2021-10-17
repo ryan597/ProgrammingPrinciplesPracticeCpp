@@ -43,7 +43,7 @@ int main()
             std::cout << "The multiplication of " << x << " and " << y << " is\t" << x * y << "\n";
             break;
         case '/':
-            std::cout << "The division of " << x << " and " << y << " is\t" << x / y << "\n";
+            std::cout << "The division of " << x << " and " << y << " is\t" << double(x) / double(y) << "\n";
             break;
         default:
             std::cout << "Invalid input. Try again.\n";
