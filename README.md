@@ -1,10 +1,10 @@
 # Programming Principles and Practice using C++
 
-Exercises and code from the book [`Programming principles and practice using C++ by Bjarne Stroustrup`](https://www.stroustrup.com/programming.html).
+Exercises and code from the book [`Programming Principles and Practice using C++`](https://www.stroustrup.com/programming.html) by Bjarne Stroustrup.
 
-I have made this repository pubic to motivate me to continue and complete the exercises within the book and to hopefully help me understand programming and C++ more fully. I also wanted to improve my documentation skills by writing more markdown (even if no-one will read it).
+I have made this repository pubic to motivate me to continue and complete the exercises within the book and to hopefully help me understand programming and C++ more completly. I also wanted to improve my documentation skills by writing more markdown (even if no-one will read it).
 
-I give no warrenty with the code in this repository, that it works or is free from errors. The code presented here is mostly directly from the book in cases of the examples and drills. Where the files are labeled as exercises, it is my own solution to the posed problem.
+I give no warrenty for the code in this repository, that it works or is free from errors. The code presented here is mostly directly from the book in cases of the example files. Where the files are labeled as drills or exercises, it is my own solution to the posed problem.
 
 ---
 
@@ -16,19 +16,63 @@ I give no warrenty with the code in this repository, that it works or is free fr
 2. [Folder Structure](#2-folder-structure)
 3. [Programs](#3-programs)
 
-    [Chapter 2: Hello World](Chapter2/)
+    [Chapter 2](Chapter2/): Hello World
 
-    [Chapter 3: Objects, Types and Values](Chapter3/)
+    [Chapter 3](Chapter3/): Objects, Types and Values
 
-    [Chapter 4: Computation](Chapter4/)
+    [Chapter 4](Chapter4/): Computation
 
-    [Chapter 5: Errors](Chapter5/)
+    [Chapter 5](Chapter5/): Errors
+
+    [Chapter 6](Chapter6/): Writing a Program
+
+    [Chapter 7](Chapter7/): Completing a Program
+
+    [Chapter 8](Chapter8/): Technicalities: Functions, etc
+
+    [Chapter 9](Chapter9/): Technicalities: Classes, etc
+
+    [Chapter 10](Chapter10/): Input and Output Streams
+
+    [Chapter 11](Chapter11/): Customising Input and Output
+
+    [Chapter 12](Chapter12/): A Display Model
+
+    [Chapter 13](Chapter13/): Graphics Classes
+
+    [Chapter 14](Chapter14/): Graphics Class Design
+
+    [Chapter 15](Chapter15/): Graphing Functions and Data
+
+    [Chapter 16](Chapter16/): Graphical User Interface
+
+    [Chapter 17](Chapter17/): Vector and Free Store
+
+    [Chapter 18](Chapter18/): Vectors and Arrays
+
+    [Chapter 19](Chapter19/): Vector, Templates, and Exceptions
+
+    [Chapter 20](Chapter20/): Containers and Iterators
+
+    [Chapter 21](Chapter21/): Algorithms and Maps
+
+    [Chapter 22](Chapter22/): Ideals and History
+
+    [Chapter 23](Chapter23/): Text Manipulation
+
+    [Chapter 24](Chapter24/): Numerics
+
+    [Chapter 25](Chapter25/): Embedded Systems Programming
+
+    [Chapter 26](Chapter26/): Testing
+
+    [Chapter 27](Chapter27/): The C Programming Language
 
 ---
 
 ## 1. Dependencies
 
-To compile C++ code you need a C++ compiler. As the book is written for the C++11 and C++14 standards it is recommended that you use a compiler which is compatitable with the C++11 and C++14 standards.
+To compile C++ code you need a C++ compiler. As the book is written for the C++11 and C++14 standards it is recommended that you use a compiler which is compatitable with the C++11 and C++14 standards, however I have not stuck to these standards and at some points there may be code which is from the C++20 standard. Thus you may need to compile with the `-std=c++2a` flag for your compiler.
 
 ---
 
@@ -45,6 +89,8 @@ Each file is also numbered successively restarting at 1 with each chapter, and g
 ## 3. Programs
 
 Here I will detail the exercises I completed from the different chapters of the book and what they teach. Each program should be easy to understand from its source code with the comments I have included, but I have decided this will give an easy overview without opening each individual file. As I work through the book, I may decide to include additional markdown files within the respective chapers for notes on more advanced concepts.
+
+## Part I: The Basics
 
 ### Chapter 2: Hello World
 
@@ -77,17 +123,83 @@ Here I will detail the exercises I completed from the different chapters of the 
 - [Example 10](Chapter4/example10_simpledictionary.cpp): Unique Words
 - [Drill 1](Chapter4/drill1_whileloop.cpp): Comparing While
 - [Exercise 1](Chapter4/exercise1_currencyconvertorswitch.cpp): Converting Currencies
+- [Exercise 2](Chapter4/exercise2_median.cpp):
+- [Exercise 3](Chapter4/exercise3_citydistance.cpp):
+- [Exercise 4](Chapter4/exercise4_numberguessing.cpp):
+- [Exercise 5](Chapter4/exercise5_calculator.cpp):
+- [Exercise 6](Chapter4/exercise6_digitstrings.cpp):
+- [Exercise 7](Chapter4/exercise7_singlespelldigitcalc.cpp):
+- [Exercise 8](Chapter4/exercise8_ricechesssquares.cpp):
+- [Exercise 9](Chapter4/exercise9_largestsquares.cpp):
+- [Exercise 10](Chapter4/exercise10_rockpaperscissors.cpp):
+- [Exercise 11](Chapter4/exercise11_.cpp):
+- [Exercise 12](Chapter4/exercise12_.cpp):
+- [Exercise 13](Chapter4/exercise13_.cpp):
+- [Exercise 14](Chapter4/exercise14_.cpp):
+- [Exercise 15](Chapter4/exercise15_.cpp):
+- [Exercise 16](Chapter4/exercise16_.cpp):
+- [Exercise 17](Chapter4/exercise17_.cpp):
+- [Exercise 18](Chapter4/exercise18_.cpp):
+- [Exercise 19](Chapter4/exercise19_.cpp):
+- [Exercise 20](Chapter4/exercise20_.cpp):
+- [Exercise 21](Chapter4/exercise21_.cpp):
 
 ### Chapter 5: Errors
 
-- Example 1:
-- Example 2:
-- Example 3:
-- Example 4:
-- Example 5:
-- Example 6:
-- Example 7:
-- Example 8:
-- Example 9:
+### Chapter 6: Writing a Program
+
+### Chapter 7: Completing a Program
+
+### Chapter 8: Technicalities: Functions, etc
+
+### Chapter 9: Technicalities: Classes, etc
+
+---
+
+## Part II: Input and Output
+
+### Chapter 10: Input and Output Streams
+
+### Chapter 11: Customising Input and Output
+
+### Chapter 12: A Display Model
+
+### Chapter 13: Graphics Classes
+
+### Chapter 14: Graphics Class Design
+
+### Chapter 15: Graphing Functions and Data
+
+### Chapter 16: Graphical User Interface
+
+---
+
+## Part III: Data and Algorithms
+
+### Chapter 17: Vector and Free Store
+
+### Chapter 18: Vectors and Arrays
+
+### Chapter 19: Vector, Templates, and Exceptions
+
+### Chapter 20: Containers and Iterators
+
+### Chapter 21: Algorithms and Maps
+
+---
+
+## Part IV: Broadening the View
+
+### Chapter 22: Ideals and History
+
+### Chapter 23: Text Manipulation
+
+### Chapter 24: Numerics
+
+### Chapter 25: Embedded Systems Programming
+
+### Chapter 26: Testing
+
+### Chapter 27: The C Programming Language
 
 ---
