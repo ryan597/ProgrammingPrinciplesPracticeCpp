@@ -17,3 +17,7 @@ auto area(int length, int width) -> int
     return length * width;
 }
 
+auto main() -> int
+{
+    return 0;
+}
