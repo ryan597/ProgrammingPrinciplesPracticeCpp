@@ -123,24 +123,24 @@ Here I will detail the exercises I completed from the different chapters of the 
 - [Example 10](Chapter4/example10_simpledictionary.cpp): Unique Words
 - [Drill 1](Chapter4/drill1_whileloop.cpp): Comparing While
 - [Exercise 1](Chapter4/exercise1_currencyconvertorswitch.cpp): Converting Currencies
-- [Exercise 2](Chapter4/exercise2_median.cpp):
-- [Exercise 3](Chapter4/exercise3_citydistance.cpp):
-- [Exercise 4](Chapter4/exercise4_numberguessing.cpp):
-- [Exercise 5](Chapter4/exercise5_calculator.cpp):
-- [Exercise 6](Chapter4/exercise6_digitstrings.cpp):
-- [Exercise 7](Chapter4/exercise7_singlespelldigitcalc.cpp):
-- [Exercise 8](Chapter4/exercise8_ricechesssquares.cpp):
-- [Exercise 9](Chapter4/exercise9_largestsquares.cpp):
-- [Exercise 10](Chapter4/exercise10_rockpaperscissors.cpp):
-- [Exercise 11](Chapter4/exercise11_primes.cpp):
-- [Exercise 12](Chapter4/exercise12_maxprimes.cpp):
-- [Exercise 13](Chapter4/exercise13_SieveOfEratosthenes.cpp):
-- [Exercise 14](Chapter4/exercise14_MaxSieveOfEratosthenes.cpp):
-- [Exercise 15](Chapter4/exercise15_nprimes.cpp):
-- [Exercise 16](Chapter4/exercise16_findthemode.cpp):
-- [Exercise 17](Chapter4/exercise17_minmaxmodestrings.cpp):
-- [Exercise 18](Chapter4/exercise18_quadratics.cpp):
-- [Exercise 19](Chapter4/exercise19_namescores.cpp):
+- [Exercise 2](Chapter4/exercise2_median.cpp): Calculating the Median
+- [Exercise 3](Chapter4/exercise3_citydistance.cpp): City Distances
+- [Exercise 4](Chapter4/exercise4_numberguessing.cpp): Number Guessing Game
+- [Exercise 5](Chapter4/exercise5_calculator.cpp): Calculator
+- [Exercise 6](Chapter4/exercise6_digitstrings.cpp): Digit Strings
+- [Exercise 7](Chapter4/exercise7_singlespelldigitcalc.cpp): Spelling Digits
+- [Exercise 8](Chapter4/exercise8_ricechesssquares.cpp): Grains of Rice
+- [Exercise 9](Chapter4/exercise9_largestsquares.cpp): Overflow and Precision
+- [Exercise 10](Chapter4/exercise10_rockpaperscissors.cpp): Rock, Paper, Scissors
+- [Exercise 11](Chapter4/exercise11_primes.cpp): Primes
+- [Exercise 12](Chapter4/exercise12_maxprimes.cpp): Max Primes
+- [Exercise 13](Chapter4/exercise13_SieveOfEratosthenes.cpp): Sieve of Eratosthenes
+- [Exercise 14](Chapter4/exercise14_MaxSieveOfEratosthenes.cpp): Max Sieve of Eratosthenes
+- [Exercise 15](Chapter4/exercise15_nprimes.cpp): N Primes
+- [Exercise 16](Chapter4/exercise16_findthemode.cpp): Find the Mode
+- [Exercise 17](Chapter4/exercise17_minmaxmodestrings.cpp): Min, Max of Strings
+- [Exercise 18](Chapter4/exercise18_quadratics.cpp): Quadratic Solver
+- [Exercise 19](Chapter4/exercise19_namescores.cpp): NameScore
 
 ### Chapter 5: Errors
 
