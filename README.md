@@ -88,7 +88,7 @@ Each file is also numbered successively restarting at 1 with each chapter, and g
 
 ## 3. Programs
 
-Here I will detail the exercises I completed from the different chapters of the book and what they teach. Each program should be easy to understand from its source code with the comments I have included, but I have decided this will give an easy overview without opening each individual file. As I work through the book, I may decide to include additional markdown files within the respective chapers for notes on more advanced concepts.
+Here I will detail the exercises I completed from the different chapters of the book and what they teach. Each program should be easy to understand from its source code with the comments I have included, but I have decided this will give an easy overview without opening each individual file. As I work through the book, the style may (and should) change as I learn more about the language and the modern practices which may not even be in the book. For instance, I only setup the Clang-Tidy linter around chapter 5, so code begins to follow that formatting around then (eg. Functions with trailing return types).
 
 ## Part I: The Basics
 
@@ -132,19 +132,38 @@ Here I will detail the exercises I completed from the different chapters of the 
 - [Exercise 8](Chapter4/exercise8_ricechesssquares.cpp):
 - [Exercise 9](Chapter4/exercise9_largestsquares.cpp):
 - [Exercise 10](Chapter4/exercise10_rockpaperscissors.cpp):
-- [Exercise 11](Chapter4/exercise11_.cpp):
-- [Exercise 12](Chapter4/exercise12_.cpp):
-- [Exercise 13](Chapter4/exercise13_.cpp):
-- [Exercise 14](Chapter4/exercise14_.cpp):
-- [Exercise 15](Chapter4/exercise15_.cpp):
-- [Exercise 16](Chapter4/exercise16_.cpp):
-- [Exercise 17](Chapter4/exercise17_.cpp):
-- [Exercise 18](Chapter4/exercise18_.cpp):
-- [Exercise 19](Chapter4/exercise19_.cpp):
-- [Exercise 20](Chapter4/exercise20_.cpp):
-- [Exercise 21](Chapter4/exercise21_.cpp):
+- [Exercise 11](Chapter4/exercise11_primes.cpp):
+- [Exercise 12](Chapter4/exercise12_maxprimes.cpp):
+- [Exercise 13](Chapter4/exercise13_SieveOfEratosthenes.cpp):
+- [Exercise 14](Chapter4/exercise14_MaxSieveOfEratosthenes.cpp):
+- [Exercise 15](Chapter4/exercise15_nprimes.cpp):
+- [Exercise 16](Chapter4/exercise16_findthemode.cpp):
+- [Exercise 17](Chapter4/exercise17_minmaxmodestrings.cpp):
+- [Exercise 18](Chapter4/exercise18_quadratics.cpp):
+- [Exercise 19](Chapter4/exercise19_namescores.cpp):
 
 ### Chapter 5: Errors
+
+- [Example 1](Chapter5/example1_runtimeerrors.cpp): Runtime Errors
+- [Example 2](Chapter5/example2_errorreporting.cpp): Error Reporting
+- [Example 3](Chapter5/example3_vectorrange.cpp): Vector Range
+- [Example 4](Chapter5/example4_runtimeerror.cpp): Runtime Exceptions
+- [Example 5](Chapter5/example5_logicerrors.cpp): Logic Errors
+- [Drill 1](Chapter5/drill1_codefragments.cpp): Code Fragments
+- [Exercise 1](Chapter5/exercise1_.cpp):
+- [Exercise 2](Chapter5/exercise2_.cpp):
+- [Exercise 3](Chapter5/exercise3_.cpp):
+- [Exercise 4](Chapter5/exercise4_.cpp):
+- [Exercise 5](Chapter5/exercise5_.cpp):
+- [Exercise 6](Chapter5/exercise6_.cpp):
+- [Exercise 7](Chapter5/exercise7_.cpp):
+- [Exercise 8](Chapter5/exercise8_.cpp):
+- [Exercise 9](Chapter5/exercise9_.cpp):
+- [Exercise 10](Chapter5/exercise10_.cpp):
+- [Exercise 11](Chapter5/exercise11_.cpp):
+- [Exercise 12](Chapter5/exercise12_.cpp):
+- [Exercise 13](Chapter5/exercise13_.cpp):
+- [Exercise 14](Chapter5/exercise14_.cpp):
 
 ### Chapter 6: Writing a Program
 
