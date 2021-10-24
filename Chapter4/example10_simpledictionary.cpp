@@ -13,7 +13,7 @@ int main()
 
     std::sort(words.begin(), words.end());
 
-    for (int i = 0; i < words.size(); i++){
+    for (u_long i = 0; i < words.size(); i++){
         if (i == 0 || words[i-1] != words[i])  // is this a new word?
             std::cout << words[i] << "\n";
     }

@@ -17,8 +17,8 @@ bool isprime(int x, const std::vector<int>& primes)
 
 int main()
 {
-    int N;
     std::cout << "Enter a number of primes to search for\n";
+    u_long N;
     std::cin >> N;
 
     std::vector<int> primes = {2};

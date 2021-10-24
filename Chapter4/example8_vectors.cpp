@@ -4,13 +4,13 @@
 int main()
 {
     std::vector<int> v(10);
-    for (int i = 0; i < v.size(); ++i){
+    for (u_long i = 0; i < v.size(); ++i){
         v[i] = i;
         std::cout << v[i] << '\n';
     }
 
     // Modern C++ way of vector iteration
-    for (int i : v){
+    for (auto i : v){
         std::cout << v[i] << '\n';
     }
 

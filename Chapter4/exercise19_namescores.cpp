@@ -26,7 +26,7 @@ int main()
             }
         }
     }
-    for (int i = 0; i < names.size(); i++){
+    for (u_long i = 0; i < names.size(); i++){
         std::cout << "Name: " << names[i] << "\tScore: " << scores[i] << "\n";
     }
     return 0;

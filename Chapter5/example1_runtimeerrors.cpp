@@ -25,6 +25,12 @@ try {
     int area2 = framed_area(1, z);
     int area3 = framed_area(y, z);  // Subtraction of 2 gives negative area
     double ratio = double(area1) / area3;
+
+    // use the variables to prevent warnings
+    std::cout << area1 << '\n'
+              << area2 << '\n'
+              << area3 << '\n'
+              << ratio << '\n';
 }
 catch (NegativeLength){
     std::cout << "ERROR: Negative length entered!\n";

@@ -33,5 +33,9 @@ int main()
     // using unsigned int will cause it to wrap around to 0
     int grainsint = largestgrainsint();
     double grainsdouble = largestgrainsdouble();
+
+    // use variables to prevent warning
+    std::cout << grainsdouble << '\n'
+              << grainsint << '\n';
     return 0;
 }

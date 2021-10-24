@@ -32,7 +32,7 @@ auto sum_doubles(const int N, const std::vector<double>& some_doubles) -> double
 auto main() -> int
 try {
     std::cout << "Enter a number of values to sum\n";
-    int N {};
+    u_long N {};
     std::cin >> N;
     std::cout << "Enter some numbers (enter '|' to end input sequence)\n";
     double value;

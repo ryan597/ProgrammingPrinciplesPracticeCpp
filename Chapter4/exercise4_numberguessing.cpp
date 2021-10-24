@@ -3,7 +3,6 @@
 
 int main()
 {
-    int guess{};
     int lower{1};
     int upper{100};
     int count{};

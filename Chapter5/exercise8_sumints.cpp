@@ -31,7 +31,7 @@ auto sum_ints(const int N, const std::vector<int>& some_integers) -> int
 auto main() -> int
 try {
     std::cout << "Enter a number of integers to sum\n";
-    int N {};
+    u_long N {};
     std::cin >> N;
     std::cout << "Enter some integers (enter '|' to end input sequence)\n";
     int value;
