@@ -150,7 +150,7 @@ Here I will detail the exercises I completed from the different chapters of the 
 - [Example 4](Chapter5/example4_runtimeerror.cpp): Runtime Exceptions
 - [Example 5](Chapter5/example5_logicerrors.cpp): Logic Errors
 - [Drill 1](Chapter5/drill1_codefragments.cpp): Code Fragments
-- [Exercise 1](Chapter5/exercise1_.cpp):
+- Exercise 1: Contains no code
 - [Exercise 2](Chapter5/exercise2_.cpp):
 - [Exercise 3](Chapter5/exercise3_.cpp):
 - [Exercise 4](Chapter5/exercise4_.cpp):
