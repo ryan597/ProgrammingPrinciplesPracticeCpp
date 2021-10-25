@@ -12,9 +12,9 @@ class SizeError {};
 class InputError
 {
 public:
+    std::string value;
     // Pass by value and std::move() avoids extra copies over pass by reference
     InputError(std::string not_double) : value(std::move(not_double)) {};
-    std::string value;
 };
 
 
