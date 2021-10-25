@@ -90,6 +90,8 @@ Each file is also numbered successively restarting at 1 with each chapter, and g
 
 Here I will detail the exercises I completed from the different chapters of the book and what they teach. Each program should be easy to understand from its source code with the comments I have included, but I have decided this will give an easy overview without opening each individual file. As I work through the book, the style may (and should) change as I learn more about the language and the modern practices which may not even be in the book. For instance, I only setup the Clang-Tidy linter around chapter 5, so code begins to follow that formatting around then (eg. Functions with trailing return types).
 
+- FILE_LINK: (Un)helpful description
+
 ## Part I: The Basics
 
 ### Chapter 2: Hello World
@@ -151,19 +153,19 @@ Here I will detail the exercises I completed from the different chapters of the 
 - [Example 5](Chapter5/example5_logicerrors.cpp): Logic Errors
 - [Drill 1](Chapter5/drill1_codefragments.cpp): Code Fragments
 - Exercise 1: Contains no code
-- [Exercise 2](Chapter5/exercise2_.cpp):
-- [Exercise 3](Chapter5/exercise3_.cpp):
-- [Exercise 4](Chapter5/exercise4_.cpp):
-- [Exercise 5](Chapter5/exercise5_.cpp):
-- [Exercise 6](Chapter5/exercise6_.cpp):
-- [Exercise 7](Chapter5/exercise7_.cpp):
-- [Exercise 8](Chapter5/exercise8_.cpp):
-- [Exercise 9](Chapter5/exercise9_.cpp):
-- [Exercise 10](Chapter5/exercise10_.cpp):
-- [Exercise 11](Chapter5/exercise11_.cpp):
-- [Exercise 12](Chapter5/exercise12_.cpp):
-- [Exercise 13](Chapter5/exercise13_.cpp):
-- [Exercise 14](Chapter5/exercise14_.cpp):
+- [Exercise 2](Chapter5/exercise2_converttemp.cpp): Fix errors in temp convert
+- [Exercise 3](Chapter5/exercise3_absolutezero.cpp): Throwing errors below zero
+- [Exercise 4](Chapter5/exercise4_absolute0.cpp): Throwing in the function
+- [Exercise 5](Chapter5/exercise5_tempconversion.cpp): C to K and K to C
+- [Exercise 6](Chapter5/exercise6_moretemperatures.cpp): All the Temperature Units
+- [Exercise 7](Chapter5/exercise7_quadratics.cpp): No Complex Quadratics!
+- [Exercise 8](Chapter5/exercise8_sumints.cpp): Summing it up
+- [Exercise 9](Chapter5/exercise9_onlyintsums.cpp): Kinda Repetitive
+- [Exercise 10](Chapter5/exercise10_sumdoubles.cpp): Really Bjarne?
+- [Exercise 11](Chapter5/exercise11_fibonacci.cpp): Fibonacci to the Limit
+- [Exercise 12](Chapter5/exercise12_bullsandcows.cpp): 4 Bulls and No Cows
+- [Exercise 13](Chapter5/exercise13_bullsandcows2.cpp): Can't get enough Bulls
+- [Exercise 14](Chapter5/exercise14_dayofweek.cpp): I Hate Monday -20 monday -100
 
 ### Chapter 6: Writing a Program
 
