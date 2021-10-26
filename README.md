@@ -72,7 +72,7 @@ I give no warrenty for the code in this repository, that it works or is free fro
 
 ## 1. Dependencies
 
-To compile C++ code you need a C++ compiler. As the book is written for the C++11 and C++14 standards it is recommended that you use a compiler which is compatitable with the C++11 and C++14 standards, however I have not stuck to these standards and at some points there may be code which is from the C++20 standard. Thus you may need to compile with the `-std=c++2a` flag for your compiler.
+To compile C++ code you need a C++ compiler. As the book is written for the C++11 and C++14 standards it is recommended that you use a compiler which is compatitable with the C++11 and C++14 standards, however I have not stuck to these standards and at some points there may be code which is from the C++20 standard. Thus you will need to compile with at least the `-std=c++11` flag for your compiler and in some places `-std=c++17` (and maybe `-std=c++2a`).
 
 ---
 
