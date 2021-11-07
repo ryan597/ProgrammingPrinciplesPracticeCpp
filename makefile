@@ -3,7 +3,7 @@ CXX= g++
 # Compiler flags
 # -g for debugging
 # -Wall turns on compiler warnings
-CPPFLAGS= -std=c++2a -Wall
+CPPFLAGS= -std=c++2a -Wall -I.
 
 # Linker flags
 LINKERFLAG= -lm
@@ -19,7 +19,6 @@ TARGETS:= $(patsubst %.cpp, %, $(SOURCES))
 all: $(TARGETS)
 
 $(TARGETS): %: %.cpp
-	@mkdir -p $(BINDIR)
 	$(CXX) $(CPPFLAGS) $^ -o $@
 
 .PHONY: clean
