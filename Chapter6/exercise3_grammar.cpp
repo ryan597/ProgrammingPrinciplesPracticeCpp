@@ -3,6 +3,10 @@
 #include <algorithm>
 #include <map>
 
+/*
+ * This is exercise 5 and 6 as listed in the book.
+ */
+
 class Word
 {
 private:
