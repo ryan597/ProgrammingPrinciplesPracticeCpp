@@ -2,7 +2,7 @@
 
 Exercises and code from the book [`Programming Principles and Practice using C++`](https://www.stroustrup.com/programming.html) by Bjarne Stroustrup.
 
-I have made this repository pubic to motivate me to continue and complete the exercises within the book and to hopefully help me understand programming and C++ more completly. I also wanted to improve my documentation skills by writing more markdown (even if no-one will read it).
+I have made this repository pubic to motivate me to continue and complete the exercises within the book and to hopefully help me understand programming and C++ more completly. I also wanted to improve my documentation skills by writing more markdown (even if no-one will read it).  Note: The numbers in the filenames do not necessarily correspond to the numbered exercises in the book.
 
 I give no warrenty for the code in this repository, that it works or is free from errors. The code presented here is mostly directly from the book in cases of the example files. Where the files are labeled as drills or exercises, it is my own solution to the posed problem.
 
