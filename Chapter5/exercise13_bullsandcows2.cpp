@@ -10,7 +10,7 @@ auto generate_random_vec(int length = 4) -> std::vector<int>
 {
     std::srand (time(nullptr));
     std::vector<int> vec(length);
-    for (u_long i = 0; i < vec.size();) {
+    for (unsigned long i = 0; i < vec.size();) {
         int random = (std::rand() % 10);
         if (std::find(vec.begin(), vec.end(), random) == vec.end()) {
             vec[i] = random;
@@ -28,7 +28,7 @@ auto check_user_guesses(const std::vector<int>& rand_vec, std::vector<int>& user
     if (std::cin.fail()) throw InvalidInput();
     int bulls {};  // Correct and in the right position
     int cows {};  // Correct but in the wrong position
-    for (u_long i = 0; i < rand_vec.size(); i++) {
+    for (unsigned long i = 0; i < rand_vec.size(); i++) {
         if (user_guess[i] == rand_vec[i]) {
             bulls++;
         } else if (std::find(rand_vec.begin(), rand_vec.end(), user_guess[i]) != rand_vec.end()) {
