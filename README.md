@@ -82,7 +82,7 @@ There are 27 Chapters within the book, of which chapter 1 does not include any c
 
 Each folder in the repository contains three different type of C++ files. Those labeled as `example` are the sample codes used in the book (with possibly some minor modifications or comments where I saw fit). Files with the prefix `drill` are the suggested drills. As Bjarne suggests, you have not read the book unless you have done all the included drills and some of the exercises.  Lastly the files with `exercise` in the name are the problems to solve at the end of each chapter.
 
-Each file is also numbered successively restarting at 1 with each chapter, and given a name indicative of the task the program is doing or the concept it is teaching.
+Each file is also numbered successively restarting at 1 with each chapter, and given a name indicative of the task the program is doing or the concept it is teaching.  The exercises are not numbered corresponding to the exercise in that chapter! I have skipped some where I deemed them too similar to others.
 
 ---
 
