@@ -169,6 +169,21 @@ Here I will detail the exercises I completed from the different chapters of the 
 
 ### Chapter 6: Writing a Program
 
+- [Example 1](Chapter6/example1_firstattempt.cpp): Starting Parsing
+- [Example 2](Chapter6/example2_moreoperations.cpp): Throwing Again
+- [Example 3](Chapter6/example3_tokens.cpp): Tokens
+- [Example 4](Chapter6/example4_expressions.cpp): Parsing Expressions
+- [Example 5](Chapter6/example5_term.cpp): Parsing Terms
+- [Example 6](Chapter6/example6_primary.cpp): Primary First
+- [Example 7](Chapter6/example7_donteatmytokens.cpp): Put It BACK!
+- [Example 8](Chapter6/example8_tokenstream.cpp): Streaming Tokens
+- [Drill 1](Chapter5/drill1_fixbuggy.cpp): Squashing Bugs
+- [Exercise 1](Chapter6/exercise1_fixbuggy.cpp): Squashing Bugs 2: Electric Zapper
+- [Exercise 2](Chapter6/exercise2_nameandvalue.cpp): Name and Shame
+- [Exercise 3](Chapter6/exercise3_grammar.cpp): Grammar Grammar
+- [Exercise 4](Chapter6/exercise4_bullsandcows.cpp): Guessing Game
+- [Exercise 5](Chapter6/exercise5_permutations.cpp): Permutating
+
 ### Chapter 7: Completing a Program
 
 ### Chapter 8: Technicalities: Functions, etc
