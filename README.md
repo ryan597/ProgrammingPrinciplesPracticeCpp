@@ -188,6 +188,10 @@ Here I will detail the exercises I completed from the different chapters of the 
 
 ### Chapter 8: Technicalities: Functions, etc
 
+- [Drill 1](Chapter8/drill1_use.cpp) Also see drill1_my.h and drill1_my.cpp
+- [Drill 2](Chapter8/drill2.cpp)
+- [Drill 3](Chapter8/drill3.cpp)
+
 ### Chapter 9: Technicalities: Classes, etc
 
 ---
