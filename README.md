@@ -72,13 +72,13 @@ I give no warrenty for the code in this repository, that it works or is free fro
 
 ## 1. Dependencies
 
-To compile C++ code you need a C++ compiler. As the book is written for the C++11 and C++14 standards it is recommended that you use a compiler which is compatitable with the C++11 and C++14 standards, however I have not stuck to these standards and at some points there may be code which is from the C++20 standard. Thus you will need to compile with at least the `-std=c++11` flag for your compiler and in some places `-std=c++17` (and maybe `-std=c++2a`).
+To compile C++ code you need a C++ compiler. As the book is written for the C++11 and C++14 standards it is recommended that you use a compiler which is compatitable with the C++11 and C++14 standards, however I have not stuck to these standards and at some points there may be code which is from the C++20 standard. Thus you will need to compile with at least the `-std=c++11` flag for your compiler and in some places `-std=c++17` (and maybe in some places `-std=c++2a`).
 
 ---
 
 ## 2. Folder Structure
 
-There are 27 Chapters within the book, of which chapter 1 does not include any code examples or coding exercises so it is not listed as one od the folders.
+There are 27 Chapters within the book, of which chapter 1 does not include any code examples or coding exercises so it is not listed as one of the folders.
 
 Each folder in the repository contains three different type of C++ files. Those labeled as `example` are the sample codes used in the book (with possibly some minor modifications or comments where I saw fit). Files with the prefix `drill` are the suggested drills. As Bjarne suggests, you have not read the book unless you have done all the included drills and some of the exercises.  Lastly the files with `exercise` in the name are the problems to solve at the end of each chapter.
 
@@ -213,6 +213,34 @@ Here I will detail the exercises I completed from the different chapters of the 
 ## Part III: Data and Algorithms
 
 ### Chapter 17: Vector and Free Store
+
+- [Drill 1](Chapter17/drill1.cpp)
+- [Drill 2](Chapter17/drill2.cpp)
+- [Drill 3](Chapter17/drill3.cpp)
+- [Drill 4](Chapter17/drill4.cpp)
+- [Drill 5](Chapter17/drill5.cpp)
+- [Drill 6](Chapter17/drill6.cpp)
+- [Drill 7](Chapter17/drill7.cpp)
+- [Drill 8](Chapter17/drill8.cpp)
+- [Drill 9](Chapter17/drill9.cpp)
+- [Drill 10](Chapter17/drill10.cpp)
+- [Drill 11](Chapter17/drill11.cpp)
+- [Drill 12](Chapter17/drill12.cpp)
+- [Drill 13](Chapter17/drill13.cpp)
+- [Drill 14](Chapter17/drill14.cpp)
+- [Drill 15](Chapter17/drill15.cpp)
+- [Drill 16](Chapter17/drill16.cpp)
+- [Drill 17](Chapter17/drill17.cpp)
+- [Drill 18](Chapter17/drill18.cpp)
+- [Drill 19](Chapter17/drill19.cpp)
+- [Drill 20](Chapter17/drill20.cpp)
+- [Drill 21](Chapter17/drill21.cpp)
+- [Drill 22](Chapter17/drill22.cpp)
+- [Drill 23](Chapter17/drill23.cpp)
+- [Exercise 3](Chapter17/exercise3.cpp)
+- [Exercise 6](Chapter17/exercise6.cpp)
+- [Exercise 11](Chapter17/exercise11.cpp)
+- [Exercise 13](Chapter17/exercise13.cpp)
 
 ### Chapter 18: Vectors and Arrays
 
