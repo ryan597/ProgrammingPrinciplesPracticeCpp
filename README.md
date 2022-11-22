@@ -191,6 +191,15 @@ Here I will detail the exercises I completed from the different chapters of the 
 - [Drill 1](Chapter8/drill1_use.cpp) Also see drill1_my.h and drill1_my.cpp
 - [Drill 2](Chapter8/drill2.cpp)
 - [Drill 3](Chapter8/drill3.cpp)
+- [Exercise 2](Chapter8/exercise2.cpp)
+- [Exercise 3](Chapter8/exercise3.cpp)
+- [Exercise 5](Chapter8/exercise5.cpp)
+- [Exercise 6](Chapter8/exercise6.cpp)
+- [Exercise 9](Chapter8/exercise9.cpp)
+- [Exercise 10](Chapter8/exercise10.cpp)
+- [Exercise 11](Chapter8/exercise311cpp)
+- [Exercise 12](Chapter8/exercise3.12pp)
+- [Exercise 13](Chapter8/exercise3.c1pp)
 
 ### Chapter 9: Technicalities: Classes, etc
 
