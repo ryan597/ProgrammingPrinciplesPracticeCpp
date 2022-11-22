@@ -10,7 +10,7 @@ I give no warrenty for the code in this repository, that it works or is free fro
 
 ## Contents
 
-[Programming Principles and Practice using C++](#programming-principles-and-practice-using-c++)
+[Programming Principles and Practice using C++](#programming-principles-and-practice-using-c)
 
 1. [Dependencies](#1-dependencies)
 2. [Folder Structure](#2-folder-structure)
